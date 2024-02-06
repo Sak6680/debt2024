@@ -1,0 +1,1159 @@
+[{
+    "now": 1.105634,
+    "debt-22": 1.105634,
+    "debt-22-23": 0,
+    "code": "af",
+    "country": "Afghanistan"
+}, {
+    "now": 14.487128,
+    "debt-22": 14.487128,
+    "debt-22-23": 1.753546,
+    "code": "al",
+    "country": "Albania"
+}, {
+    "now": 123.482957,
+    "debt-22": 123.482957,
+    "debt-22-23": 17.171935,
+    "code": "dz",
+    "country": "Algeria"
+}, {
+    "now": 1.391884,
+    "debt-22": 1.391884,
+    "debt-22-23": 0.007199,
+    "code": "ad",
+    "country": "Andorra"
+}, {
+    "now": 79.632804,
+    "debt-22": 79.632804,
+    "debt-22-23": -7.987629,
+    "code": "ao",
+    "country": "Angola"
+}, {
+    "now": 1.568945,
+    "debt-22": 1.568945,
+    "debt-22-23": 0.063063,
+    "code": "ag",
+    "country": "Antigua Barbu."
+}, {
+    "now": 556.540535,
+    "debt-22": 556.540535,
+    "debt-22-23": -51.069964,
+    "code": "ar",
+    "country": "Argentina"
+}, {
+    "now": 11.75466,
+    "debt-22": 11.75466,
+    "debt-22-23": 1.362685,
+    "code": "am",
+    "country": "Armenia"
+}, {
+    "now": 3.172583,
+    "debt-22": 3.172583,
+    "debt-22-23": 0.000129,
+    "code": "aw",
+    "country": "Aruba"
+}, {
+    "now": 875.923047,
+    "debt-22": 875.923047,
+    "debt-22-23": 61.306693,
+    "code": "au",
+    "country": "Australia"
+}, {
+    "now": 393.584136,
+    "debt-22": 393.584136,
+    "debt-22-23": 15.146724,
+    "code": "at",
+    "country": "Austria"
+}, {
+    "now": 14.085344,
+    "debt-22": 14.085344,
+    "debt-22-23": 0.491596,
+    "code": "az",
+    "country": "Azerbaijan"
+}, {
+    "now": 11.683592,
+    "debt-22": 11.683592,
+    "debt-22-23": 0.45793,
+    "code": "bs",
+    "country": "Bahamas, The"
+}, {
+    "now": 54.532728,
+    "debt-22": 54.532728,
+    "debt-22-23": 1.541262,
+    "code": "bh",
+    "country": "Bahrain"
+}, {
+    "now": 175.861506,
+    "debt-22": 175.861506,
+    "debt-22-23": 4.837808,
+    "code": "bd",
+    "country": "Bangladesh"
+}, {
+    "now": 7.153,
+    "debt-22": 7.153,
+    "debt-22-23": 0.003275,
+    "code": "bb",
+    "country": "Barbados"
+}, {
+    "now": 30.369024,
+    "debt-22": 30.369024,
+    "debt-22-23": -1.052048,
+    "code": "by",
+    "country": "Belarus"
+}, {
+    "now": 665.16166,
+    "debt-22": 665.16166,
+    "debt-22-23": 37.7105,
+    "code": "be",
+    "country": "Belgium"
+}, {
+    "now": 1.908274,
+    "debt-22": 1.908274,
+    "debt-22-23": 0.022736,
+    "code": "bz",
+    "country": "Belize"
+}, {
+    "now": 10.5682,
+    "debt-22": 10.5682,
+    "debt-22-23": 0.849236,
+    "code": "bj",
+    "country": "Benin"
+}, {
+    "now": 3.314524,
+    "debt-22": 3.314524,
+    "debt-22-23": 0.197556,
+    "code": "bt",
+    "country": "Bhutan"
+}, {
+    "now": 37.811168,
+    "debt-22": 37.811168,
+    "debt-22-23": 2.659284,
+    "code": "bo",
+    "country": "Bolivia"
+}, {
+    "now": 7.70627,
+    "debt-22": 7.70627,
+    "debt-22-23": 0.397846,
+    "code": "ba",
+    "country": "Bosnia Her.."
+}, {
+    "now": 3.881372,
+    "debt-22": 3.881372,
+    "debt-22-23": 0.089768,
+    "code": "bw",
+    "country": "Botswana"
+}, {
+    "now": 1873.718729,
+    "debt-22": 1873.718729,
+    "debt-22-23": 171.681922,
+    "code": "br",
+    "country": "Brazil"
+}, {
+    "now": 0.348519,
+    "debt-22": 0.348519,
+    "debt-22-23": -0.001293,
+    "code": "bn",
+    "country": "Brunei"
+}, {
+    "now": 21.65079,
+    "debt-22": 21.65079,
+    "debt-22-23": 3.616154,
+    "code": "bg",
+    "country": "Bulgaria"
+}, {
+    "now": 12.72042,
+    "debt-22": 12.72042,
+    "debt-22-23": 1.304172,
+    "code": "bf",
+    "country": "Burkina Faso"
+}, {
+    "now": 2.31913,
+    "debt-22": 2.31913,
+    "debt-22-23": -0.306966,
+    "code": "bi",
+    "country": "Burundi"
+}, {
+    "now": 2.938338,
+    "debt-22": 2.938338,
+    "debt-22-23": 0.129971,
+    "code": "cv",
+    "country": "Cabo Verde"
+}, {
+    "now": 10.922879,
+    "debt-22": 10.922879,
+    "debt-22-23": 0.874836,
+    "code": "kh",
+    "country": "Cambodia"
+}, {
+    "now": 20.640778,
+    "debt-22": 20.640778,
+    "debt-22-23": 0.340094,
+    "code": "cm",
+    "country": "Cameroon"
+}, {
+    "now": 2253.34452,
+    "debt-22": 2253.34452,
+    "debt-22-23": 59.096224,
+    "code": "ca",
+    "country": "Canada"
+}, {
+    "now": 1.38276,
+    "debt-22": 1.38276,
+    "debt-22-23": 0.10276,
+    "code": "cf",
+    "country": "Central African "
+}, {
+    "now": 5.441472,
+    "debt-22": 5.441472,
+    "debt-22-23": -0.336168,
+    "code": "td",
+    "country": "Chad"
+}, {
+    "now": 132.2496,
+    "debt-22": 132.2496,
+    "debt-22-23": 13.79204,
+    "code": "cl",
+    "country": "Chile"
+}, {
+    "now": 14691.74617,
+    "debt-22": 14691.74617,
+    "debt-22-23": 1529.705192,
+    "code": "cn",
+    "country": "China"
+}, {
+    "now": 200.10925,
+    "debt-22": 200.10925,
+    "debt-22-23": 5.65068,
+    "code": "co",
+    "country": "Colombia"
+}, {
+    "now": 0.454212,
+    "debt-22": 0.454212,
+    "debt-22-23": 0.078993,
+    "code": "km",
+    "country": "Comoros"
+}, {
+    "now": 8.979096,
+    "debt-22": 8.979096,
+    "debt-22-23": -0.84435,
+    "code": "cd",
+    "country": "Congo, D.R"
+}, {
+    "now": 14.090046,
+    "debt-22": 14.090046,
+    "debt-22-23": -0.056936,
+    "code": "cg",
+    "country": "Congo"
+}, {
+    "now": 53.9217,
+    "debt-22": 53.9217,
+    "debt-22-23": 2.888568,
+    "code": "cr",
+    "country": "Costa Rica"
+}, {
+    "now": 51.15803,
+    "debt-22": 51.15803,
+    "debt-22-23": 2.17537,
+    "code": "hr",
+    "country": "Croatia"
+}, {
+    "now": 25.177152,
+    "debt-22": 25.177152,
+    "debt-22-23": -1.027903,
+    "code": "cy",
+    "country": "Cyprus"
+}, {
+    "now": 152.200322,
+    "debt-22": 152.200322,
+    "debt-22-23": 7.244962,
+    "code": "cz",
+    "country": "Czech Republic"
+}, {
+    "now": 45.11624,
+    "debt-22": 45.11624,
+    "debt-22-23": 4.4122,
+    "code": "ci",
+    "country": "Côte d'Ivoire"
+}, {
+    "now": 126.6608,
+    "debt-22": 126.6608,
+    "debt-22-23": -1.59888,
+    "code": "dk",
+    "country": "Denmark"
+}, {
+    "now": 1.618914,
+    "debt-22": 1.618914,
+    "debt-22-23": 0.140886,
+    "code": "dj",
+    "country": "Djibouti"
+}, {
+    "now": 0.654483,
+    "debt-22": 0.654483,
+    "debt-22-23": 0.027107,
+    "code": "dm",
+    "country": "Dominica"
+}, {
+    "now": 72.136142,
+    "debt-22": 72.136142,
+    "debt-22-23": 3.84418,
+    "code": "do",
+    "country": "Dominican Rep."
+}, {
+    "now": 65.87073,
+    "debt-22": 65.87073,
+    "debt-22-23": 0.175226,
+    "code": "ec",
+    "country": "Ecuador"
+}, {
+    "now": 369.314019,
+    "debt-22": 369.314019,
+    "debt-22-23": -54.070194,
+    "code": "eg",
+    "country": "Egypt"
+}, {
+    "now": 25.79747,
+    "debt-22": 25.79747,
+    "debt-22-23": 1.486778,
+    "code": "sv",
+    "country": "El Salvador"
+}, {
+    "now": 3.845703,
+    "debt-22": 3.845703,
+    "debt-22-23": -0.361797,
+    "code": "gq",
+    "country": "Equ.. Guinea"
+}, {
+    "now": 5.161128,
+    "debt-22": 5.161128,
+    "debt-22-23": 0,
+    "code": "er",
+    "country": "Eritrea"
+}, {
+    "now": 9.028584,
+    "debt-22": 9.028584,
+    "debt-22-23": 1.650456,
+    "code": "ee",
+    "country": "Estonia"
+}, {
+    "now": 1.970752,
+    "debt-22": 1.970752,
+    "debt-22-23": 0.097851,
+    "code": "sz",
+    "country": "Eswatini"
+}, {
+    "now": 59.049716,
+    "debt-22": 59.049716,
+    "debt-22-23": 0.85834,
+    "code": "et",
+    "country": "Ethiopia"
+}, {
+    "now": 4.607196,
+    "debt-22": 4.607196,
+    "debt-22-23": 0.234474,
+    "code": "fj",
+    "country": "Fiji"
+}, {
+    "now": 224.987104,
+    "debt-22": 224.987104,
+    "debt-22-23": 16.988516,
+    "code": "fi",
+    "country": "Finland"
+}, {
+    "now": 3353.9176,
+    "debt-22": 3353.9176,
+    "debt-22-23": 163.83443,
+    "code": "fr",
+    "country": "France"
+}, {
+    "now": 12.538031,
+    "debt-22": 12.538031,
+    "debt-22-23": 0.265864,
+    "code": "ga",
+    "country": "Gabon"
+}, {
+    "now": 1.726524,
+    "debt-22": 1.726524,
+    "debt-22-23": 0.031496,
+    "code": "gm",
+    "country": "Gambia, The"
+}, {
+    "now": 11.889108,
+    "debt-22": 11.889108,
+    "debt-22-23": 0.458166,
+    "code": "ge",
+    "country": "Georgia"
+}, {
+    "now": 2919.263242,
+    "debt-22": 2919.263242,
+    "debt-22-23": 89.296758,
+    "code": "de",
+    "country": "Germany"
+}, {
+    "now": 65.057172,
+    "debt-22": 65.057172,
+    "debt-22-23": -3.404867,
+    "code": "gh",
+    "country": "Ghana"
+}, {
+    "now": 407.2068,
+    "debt-22": 407.2068,
+    "debt-22-23": 3.339342,
+    "code": "gr",
+    "country": "Greece"
+}, {
+    "now": 0.786212,
+    "debt-22": 0.786212,
+    "debt-22-23": 0.015241,
+    "code": "gd",
+    "country": "Grenada"
+}, {
+    "now": 29.082495,
+    "debt-22": 29.082495,
+    "debt-22-23": 1.993641,
+    "code": "gt",
+    "country": "Guatemala"
+}, {
+    "now": 7.33278,
+    "debt-22": 7.33278,
+    "debt-22-23": 0.646485,
+    "code": "gn",
+    "country": "Guinea"
+}, {
+    "now": 1.471349,
+    "debt-22": 1.471349,
+    "debt-22-23": 0.086599,
+    "code": "gw",
+    "country": "Guinea-Bissau"
+}, {
+    "now": 4.882371,
+    "debt-22": 4.882371,
+    "debt-22-23": 1.010139,
+    "code": "gy",
+    "country": "Guyana"
+}, {
+    "now": 5.093256,
+    "debt-22": 5.093256,
+    "debt-22-23": 0.123486,
+    "code": "ht",
+    "country": "Haiti"
+}, {
+    "now": 15.738296,
+    "debt-22": 15.738296,
+    "debt-22-23": 0.982716,
+    "code": "hn",
+    "country": "Honduras"
+}, {
+    "now": 23.518306,
+    "debt-22": 23.518306,
+    "debt-22-23": 5.206614,
+    "code": "hk",
+    "country": "Hong Kong SAR"
+}, {
+    "now": 140.030523,
+    "debt-22": 140.030523,
+    "debt-22-23": 5.955534,
+    "code": "hu",
+    "country": "Hungary"
+}, {
+    "now": 18.70884,
+    "debt-22": 18.70884,
+    "debt-22-23": -0.065124,
+    "code": "is",
+    "country": "Iceland"
+}, {
+    "now": 3056.691456,
+    "debt-22": 3056.691456,
+    "debt-22-23": 322.037107,
+    "code": "in",
+    "country": "India"
+}, {
+    "now": 552.78093,
+    "debt-22": 552.78093,
+    "debt-22-23": 42.572346,
+    "code": "id",
+    "country": "Indonesia"
+}, {
+    "now": 112.130028,
+    "debt-22": 112.130028,
+    "debt-22-23": 5.666462,
+    "code": "ir",
+    "country": "Iran"
+}, {
+    "now": 125.456556,
+    "debt-22": 125.456556,
+    "debt-22-23": 22.76661,
+    "code": "iq",
+    "country": "Iraq"
+}, {
+    "now": 251.745963,
+    "debt-22": 251.745963,
+    "debt-22-23": -6.206253,
+    "code": "ie",
+    "country": "Ireland"
+}, {
+    "now": 303.622416,
+    "debt-22": 303.622416,
+    "debt-22-23": 3.003864,
+    "code": "il",
+    "country": "Israel"
+}, {
+    "now": 3141.399834,
+    "debt-22": 3141.399834,
+    "debt-22-23": 129.408454,
+    "code": "it",
+    "country": "Italy"
+}, {
+    "now": 13.564203,
+    "debt-22": 13.564203,
+    "debt-22-23": 0.184881,
+    "code": "jm",
+    "country": "Jamaica"
+}, {
+    "now": 10797.15982,
+    "debt-22": 10797.15982,
+    "debt-22-23": -0.254771,
+    "code": "jp",
+    "country": "Japan"
+}, {
+    "now": 46.920636,
+    "debt-22": 46.920636,
+    "debt-22-23": 1.470228,
+    "code": "jo",
+    "country": "Jordan"
+}, {
+    "now": 60.674328,
+    "debt-22": 60.674328,
+    "debt-22-23": 8.000256,
+    "code": "kz",
+    "country": "Kazakhstan"
+}, {
+    "now": 79.149798,
+    "debt-22": 79.149798,
+    "debt-22-23": -0.553573,
+    "code": "ke",
+    "country": "Kenya"
+}, {
+    "now": 0.032226,
+    "debt-22": 0.032226,
+    "debt-22-23": 0.029134,
+    "code": "ki",
+    "country": "Kiribati"
+}, {
+    "now": 928.112976,
+    "debt-22": 928.112976,
+    "debt-22-23": 64.238604,
+    "code": "kr",
+    "country": "Korea"
+}, {
+    "now": 2.229897,
+    "debt-22": 2.229897,
+    "debt-22-23": 0.318405,
+    "code": "xk",
+    "country": "Kosovo"
+}, {
+    "now": 5.429358,
+    "debt-22": 5.429358,
+    "debt-22-23": -0.252079,
+    "code": "kw",
+    "country": "Kuwait"
+}, {
+    "now": 5.96007,
+    "debt-22": 5.96007,
+    "debt-22-23": 0.337651,
+    "code": "kg",
+    "country": "Kyrgyz Republic"
+}, {
+    "now": 17.334948,
+    "debt-22": 17.334948,
+    "debt-22-23": -0.604183,
+    "code": "la",
+    "country": "Lao P.D.R."
+}, {
+    "now": 18.947208,
+    "debt-22": 18.947208,
+    "debt-22-23": 0.942622,
+    "code": "lv",
+    "country": "Latvia"
+}, {
+    "now": 61.68096,
+    "debt-22": 61.68096,
+    "debt-22-23": 0,
+    "code": "lb",
+    "country": "Lebanon"
+}, {
+    "now": 1.454649,
+    "debt-22": 1.454649,
+    "debt-22-23": 0.069847,
+    "code": "ls",
+    "country": "Lesotho"
+}, {
+    "now": 2.273481,
+    "debt-22": 2.273481,
+    "debt-22-23": 0.14703,
+    "code": "lr",
+    "country": "Liberia"
+},{
+    "now": 28.673147,
+    "debt-22": 28.673147,
+    "debt-22-23": 0.910509,
+    "code": "lt",
+    "country": "Lithuania"
+}, {
+    "now": 24.59022,
+    "debt-22": 24.59022,
+    "debt-22-23": 2.959984,
+    "code": "lu",
+    "country": "Luxembourg"
+},{
+    "now": 8.51202,
+    "debt-22": 8.51202,
+    "debt-22-23": 0.459395,
+    "code": "mg",
+    "country": "Madagascar"
+}, {
+    "now": 10.356336,
+    "debt-22": 10.356336,
+    "debt-22-23": -1.815246,
+    "code": "mw",
+    "country": "Malawi"
+}, {
+    "now": 288.268755,
+    "debt-22": 288.268755,
+    "debt-22-23": 23.178174,
+    "code": "my",
+    "country": "Malaysia"
+}, {
+    "now": 7.695631,
+    "debt-22": 7.695631,
+    "debt-22-23": 0.691605,
+    "code": "mv",
+    "country": "Maldives"
+}, {
+    "now": 11.038062,
+    "debt-22": 11.038062,
+    "debt-22-23": 1.098862,
+    "code": "ml",
+    "country": "Mali"
+}, {
+    "now": 10.988251,
+    "debt-22": 10.988251,
+    "debt-22-23": 0.980213,
+    "code": "mt",
+    "country": "Malta"
+}, {
+    "now": 0.050137,
+    "debt-22": 0.050137,
+    "debt-22-23": -0.00062,
+    "code": "mh",
+    "country": "Marsh. Islands"
+}, {
+    "now": 5.126715,
+    "debt-22": 5.126715,
+    "debt-22-23": 0.129977,
+    "code": "mr",
+    "country": "Mauritania"
+}, {
+    "now": 11.810743,
+    "debt-22": 11.810743,
+    "debt-22-23": 0.896891,
+    "code": "mu",
+    "country": "Mauritius"
+}, {
+    "now": 954.643636,
+    "debt-22": 954.643636,
+    "debt-22-23": 136.15532,
+    "code": "mx",
+    "country": "Mexico"
+}, {
+    "now": 0.05725,
+    "debt-22": 0.05725,
+    "debt-22-23": 0.020978,
+    "code": "fm",
+    "country": "Micronesia, Fed"
+}, {
+    "now": 5.616,
+    "debt-22": 5.616,
+    "debt-22-23": 0.974592,
+    "code": "md",
+    "country": "Moldova"
+}, {
+    "now": 13.128618,
+    "debt-22": 13.128618,
+    "debt-22-23": 0.948822,
+    "code": "mn",
+    "country": "Mongolia"
+}, {
+    "now": 4.644164,
+    "debt-22": 4.644164,
+    "debt-22-23": 0.533996,
+    "code": "me",
+    "country": "Montenegro"
+}, {
+    "now": 102.698071,
+    "debt-22": 102.698071,
+    "debt-22-23": 6.067402,
+    "code": "ma",
+    "country": "Morocco"
+}, {
+    "now": 19.676592,
+    "debt-22": 19.676592,
+    "debt-22-23": 2.463372,
+    "code": "mz",
+    "country": "Mozambique"
+}, {
+    "now": 43.045075,
+    "debt-22": 43.045075,
+    "debt-22-23": 3.959663,
+    "code": "mm",
+    "country": "Myanmar"
+}, {
+    "now": 8.549372,
+    "debt-22": 8.549372,
+    "debt-22-23": 0.530752,
+    "code": "na",
+    "country": "Namibia"
+}, {
+    "now": 0.04365,
+    "debt-22": 0.04365,
+    "debt-22-23": -0.00366,
+    "code": "nr",
+    "country": "Nauru"
+}, {
+    "now": 19.305313,
+    "debt-22": 19.305313,
+    "debt-22-23": 2.471464,
+    "code": "np",
+    "country": "Nepal"
+}, {
+    "now": 540.91026,
+    "debt-22": 540.91026,
+    "debt-22-23": 21.832056,
+    "code": "nl",
+    "country": "Netherlands"
+}, {
+    "now": 114.980315,
+    "debt-22": 114.980315,
+    "debt-22-23": 8.53965,
+    "code": "nz",
+    "country": "New Zealand"
+}, {
+    "now": 7.201495,
+    "debt-22": 7.201495,
+    "debt-22-23": 0.289775,
+    "code": "ni",
+    "country": "Nicaragua"
+}, {
+    "now": 8.314551,
+    "debt-22": 8.314551,
+    "debt-22-23": 0.730617,
+    "code": "ne",
+    "country": "Niger"
+}, {
+    "now": 151.320776,
+    "debt-22": 151.320776,
+    "debt-22-23": 11.787379,
+    "code": "ng",
+    "country": "Nigeria"
+}, {
+    "now": 8.153316,
+    "debt-22": 8.153316,
+    "debt-22-23": 0.631908,
+    "code": "mk",
+    "country": "N.Macedonia"
+}, {
+    "now": 204.491232,
+    "debt-22": 204.491232,
+    "debt-22-23": 1.598388,
+    "code": "no",
+    "country": "Norway"
+}, {
+    "now": 41.363724,
+    "debt-22": 41.363724,
+    "debt-22-23": -3.163364,
+    "code": "om",
+    "country": "Oman"
+}, {
+    "now": 260.927176,
+    "debt-22": 260.927176,
+    "debt-22-23": -14.987984,
+    "code": "pk",
+    "country": "Pakistan"
+}, {
+    "now": 0.228018,
+    "debt-22": 0.228018,
+    "debt-22-23": 0.018956,
+    "code": "pw",
+    "country": "Palau"
+}, {
+    "now": 43.479744,
+    "debt-22": 43.479744,
+    "debt-22-23": 2.147822,
+    "code": "pa",
+    "country": "Panama"
+}, {
+    "now": 15.68754,
+    "debt-22": 15.68754,
+    "debt-22-23": 0.46145,
+    "code": "pg",
+    "country": "PapuaN.Guinea"
+}, {
+    "now": 18.054078,
+    "debt-22": 18.054078,
+    "debt-22-23": 1.966065,
+    "code": "py",
+    "country": "Paraguay"
+}, {
+    "now": 89.711604,
+    "debt-22": 89.711604,
+    "debt-22-23": 4.522116,
+    "code": "pe",
+    "country": "Peru"
+}, {
+    "now": 250.9488,
+    "debt-22": 250.9488,
+    "debt-22-23": 23.672619,
+    "code": "ph",
+    "country": "Philippines"
+}, {
+    "now": 419.401656,
+    "debt-22": 419.401656,
+    "debt-22-23": 39.987054,
+    "code": "pl",
+    "country": "Poland"
+}, {
+    "now": 299.375856,
+    "debt-22": 299.375856,
+    "debt-22-23": 1.719744,
+    "code": "pt",
+    "country": "Portugal"
+}, {
+    "now": 19.625005,
+    "debt-22": 19.625005,
+    "debt-22-23": 0.731519,
+    "code": "pr",
+    "country": "Puerto Rico"
+}, {
+    "now": 97.497,
+    "debt-22": 97.497,
+    "debt-22-23": -3.141503,
+    "code": "qa",
+    "country": "Qatar"
+}, {
+    "now": 178.71114,
+    "debt-22": 178.71114,
+    "debt-22-23": 23.094024,
+    "code": "ro",
+    "country": "Romania"
+}, {
+    "now": 394.84364,
+    "debt-22": 394.84364,
+    "debt-22-23": 20.301608,
+    "code": "ru",
+    "country": "Russian"
+}, {
+    "now": 8.815791,
+    "debt-22": 8.815791,
+    "debt-22-23": 1.154918,
+    "code": "rw",
+    "country": "Rwanda"
+}, {
+    "now": 0.568708,
+    "debt-22": 0.568708,
+    "debt-22-23": -0.021172,
+    "code": "kn",
+    "country": "Saint Kitts Nevis"
+}, {
+    "now": 1.831998,
+    "debt-22": 1.831998,
+    "debt-22-23": 0.125286,
+    "code": "lc",
+    "country": "Saint Lucia"
+}, {
+    "now": 0.895618,
+    "debt-22": 0.895618,
+    "debt-22-23": 0.099854,
+    "code": "vc",
+    "country": "Saint Vin. Gren.."
+}, {
+    "now": 0.339918,
+    "debt-22": 0.339918,
+    "debt-22-23": 0.019638,
+    "code": "ws",
+    "country": "Samoa"
+}, {
+    "now": 1.47852,
+    "debt-22": 1.47852,
+    "debt-22-23": -0.032385,
+    "code": "sm",
+    "country": "San Marino"
+}, {
+    "now": 257.734317,
+    "debt-22": 257.734317,
+    "debt-22-23": -9.204077,
+    "code": "sa",
+    "country": "Saudi Arabia"
+}, {
+    "now": 25.22421,
+    "debt-22": 25.22421,
+    "debt-22-23": 0.144175,
+    "code": "sn",
+    "country": "Senegal"
+}, {
+    "now": 38.482695,
+    "debt-22": 38.482695,
+    "debt-22-23": 2.037529,
+    "code": "rs",
+    "country": "Serbia"
+}, {
+    "now": 1.26768,
+    "debt-22": 1.26768,
+    "debt-22-23": -0.01452,
+    "code": "sc",
+    "country": "Seychelles"
+}, {
+    "now": 3.128391,
+    "debt-22": 3.128391,
+    "debt-22-23": -0.150661,
+    "code": "sl",
+    "country": "Sierra Leone"
+}, {
+    "now": 835.045613,
+    "debt-22": 835.045613,
+    "debt-22-23": 41.751946,
+    "code": "sg",
+    "country": "Singapore"
+}, {
+    "now": 75.435948,
+    "debt-22": 75.435948,
+    "debt-22-23": 6.630302,
+    "code": "sk",
+    "country": "Slovak Republic"
+}, {
+    "now": 46.84989,
+    "debt-22": 46.84989,
+    "debt-22-23": 2.270335,
+    "code": "si",
+    "country": "Slovenia"
+}, {
+    "now": 0.37518,
+    "debt-22": 0.37518,
+    "debt-22-23": 0.085878,
+    "code": "sb",
+    "country": "Solom. Islands"
+},{
+    "now": 280.727722,
+    "debt-22": 280.727722,
+    "debt-22-23": 23.583506,
+    "code": "za",
+    "country": "South Africa"
+}, {
+    "now": 3.785268,
+    "debt-22": 3.785268,
+    "debt-22-23": -0.018668,
+    "code": "ss",
+    "country": "South Sudan"
+}, {
+    "now": 1697.543942,
+    "debt-22": 1697.543942,
+    "debt-22-23": 57.792391,
+    "code": "es",
+    "country": "Spain"
+}, {
+    "now": 86.44713,
+    "debt-22": 86.44713,
+    "debt-22-23": 0,
+    "code": "lk",
+    "country": "Sri Lanka"
+}, {
+    "now": 65.45664,
+    "debt-22": 65.45664,
+    "debt-22-23": -3.765048,
+    "code": "sd",
+    "country": "Sudan"
+}, {
+    "now": 3.78673,
+    "debt-22": 3.78673,
+    "debt-22-23": -0.036364,
+    "code": "sr",
+    "country": "Suriname"
+}, {
+    "now": 192.86653,
+    "debt-22": 192.86653,
+    "debt-22-23": 9.485582,
+    "code": "se",
+    "country": "Sweden"
+}, {
+    "now": 357.74518,
+    "debt-22": 357.74518,
+    "debt-22-23": 10.940839,
+    "code": "ch",
+    "country": "Switzerland"
+}, {
+    "now": 18.0129,
+    "debt-22": 18.0129,
+    "debt-22-23": 0,
+    "code": "sy",
+    "country": "Syria"
+}, {
+    "now": 0.39429,
+    "debt-22": 0.39429,
+    "debt-22-23": 0.01915,
+    "code": "st",
+    "country": "S.T. Príncipe"
+}, {
+    "now": 200.01338,
+    "debt-22": 200.01338,
+    "debt-22-23": -15.568716,
+    "code": "tw",
+    "country": "Taiwan"
+}, {
+    "now": 3.95836,
+    "debt-22": 3.95836,
+    "debt-22-23": 0.292978,
+    "code": "tj",
+    "country": "Tajikistan"
+}, {
+    "now": 35.798058,
+    "debt-22": 35.798058,
+    "debt-22-23": 0.135312,
+    "code": "tz",
+    "country": "Tanzania"
+}, {
+    "now": 314.486502,
+    "debt-22": 314.486502,
+    "debt-22-23": 27.21649,
+    "code": "th",
+    "country": "Thailand"
+}, {
+    "now": 0.331772,
+    "debt-22": 0.331772,
+    "debt-22-23": 0.069517,
+    "code": "tl",
+    "country": "Timor-Leste"
+}, {
+    "now": 6.122592,
+    "debt-22": 6.122592,
+    "debt-22-23": 0.539388,
+    "code": "tg",
+    "country": "Togo"
+}, {
+    "now": 0.224817,
+    "debt-22": 0.224817,
+    "debt-22-23": 0.030242,
+    "code": "to",
+    "country": "Tonga"
+}, {
+    "now": 14.640675,
+    "debt-22": 14.640675,
+    "debt-22-23": 1.027776,
+    "code": "tt",
+    "country": "Trinidad Toba."
+}, {
+    "now": 39.888838,
+    "debt-22": 39.888838,
+    "debt-22-23": 1.345784,
+    "code": "tn",
+    "country": "Tunisia"
+}, {
+    "now": 4.172922,
+    "debt-22": 4.172922,
+    "debt-22-23": -0.173146,
+    "code": "tm",
+    "country": "Turkmenistan"
+}, {
+    "now": 0.00504,
+    "debt-22": 0.00504,
+    "debt-22-23": -0.000484,
+    "code": "tv",
+    "country": "Tuvalu"
+}, {
+    "now": 397.1824,
+    "debt-22": 397.1824,
+    "debt-22-23": 30.497391,
+    "code": "tr",
+    "country": "Türkiye"
+}, {
+    "now": 25.30437,
+    "debt-22": 25.30437,
+    "debt-22-23": 2.312976,
+    "code": "ug",
+    "country": "Uganda"
+}, {
+    "now": 152.776853,
+    "debt-22": 152.776853,
+    "debt-22-23": 30.876493,
+    "code": "ua",
+    "country": "Ukraine"
+}, {
+    "now": 149.698626,
+    "debt-22": 149.698626,
+    "debt-22-23": 4.371297,
+    "code": "ae",
+    "country": "UAE"
+}, {
+    "now": 3468.673419,
+    "debt-22": 3468.673419,
+    "debt-22-23": 330.753831,
+    "code": "gb",
+    "country": "UK"
+}, {
+    "now": 33228.90982,
+    "debt-22": 33228.90982,
+    "debt-22-23": 2260.645938,
+    "code": "us",
+    "country": "United States"
+}, {
+    "now": 46.966304,
+    "debt-22": 46.966304,
+    "debt-22-23": 2.810676,
+    "code": "uy",
+    "country": "Uruguay"
+}, {
+    "now": 31.727592,
+    "debt-22": 31.727592,
+    "debt-22-23": 2.926944,
+    "code": "uz",
+    "country": "Uzbekistan"
+}, {
+    "now": 0.545688,
+    "debt-22": 0.545688,
+    "debt-22-23": 0.09339,
+    "code": "vu",
+    "country": "Vanuatu"
+}, {
+    "now": 147.07495,
+    "debt-22": 147.07495,
+    "debt-22-23": 8.71827,
+    "code": "ve",
+    "country": "Venezuela"
+}, {
+    "now": 147.34104,
+    "debt-22": 147.34104,
+    "debt-22-23": 6.241704,
+    "code": "vn",
+    "country": "Vietnam"
+}, {
+    "now": 8.583666,
+    "debt-22": 8.583666,
+    "debt-22-23": -0.054327,
+    "code": "ps",
+    "country": "Palestine"
+}, {
+    "now": 13.97388,
+    "debt-22": 13.97388,
+    "debt-22-23": -1.69359,
+    "code": "ye",
+    "country": "Yemen"
+}, {
+    "now": 29.09296,
+    "debt-22": 29.09296,
+    "debt-22-23": 1.48341,
+    "code": "zm",
+    "country": "Zambia"
+}, {
+    "now": 30.932496,
+    "debt-22": 30.932496,
+    "debt-22-23": -4.145114,
+    "code": "zw",
+    "country": "Zimbabwe"
+}]
